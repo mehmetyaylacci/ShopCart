@@ -18,6 +18,6 @@ function App() {
       <MyTabs />
     </NavigationContainer>
   );
-};
+}
 
 export default App;

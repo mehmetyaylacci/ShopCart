@@ -29,6 +29,7 @@ function MyTabs() {
           marginLeft: 5,
           marginRight: 5,
         },
+        headerShown: false,
       }}>
         <Tab.Screen name="Home" component={HomeScreen} options={{
           tabBarLabel: 'Home',
